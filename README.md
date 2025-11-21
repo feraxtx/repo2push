@@ -1,4 +1,4 @@
-las cosas no son asi ... asdawdad
+las cosas no ----conflict---- son asi ... asdawdad
 a
 wd
 aw
